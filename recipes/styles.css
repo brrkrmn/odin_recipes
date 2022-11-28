@@ -1,0 +1,22 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(148, 183, 216);
+    color:rgb(3, 46, 86);
+}
+
+.title {
+    color:rgb(3, 46, 86);
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+h3 {
+    color:rgb(3, 46, 86);
+}
